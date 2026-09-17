@@ -59,7 +59,7 @@ export const INITIAL_BLOCKS: BioBlock[] = [
     enabled: true,
     title: 'Fisioterapia Integrativa',
     subtitle: 'Anos estudando sobre o corpo de maneira integral. Como o intestino influencia a mente, como dores afetam as emoções ou como órgãos influenciam nas articulações. Essas e muitas outras associações são analisadas nas minhas consultas.',
-    imageUrl: 'public/images/saude_integral.jpg',
+    imageUrl: '/images/saude_integral.jpg',
     buttonText: 'Acessar',
     url: '#diferencial',
   },
