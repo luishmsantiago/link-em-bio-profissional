@@ -182,12 +182,12 @@ export const LOCATIONS: SiteLocation[] = [
 /*  Galeria de fotos                                                   */
 /* ------------------------------------------------------------------ */
 export const GALLERY_IMAGES = [
-  { id: 'g1', url: 'public/gallery/avlombar.jpeg', caption: 'Avaliação da coluna lombar' },
-  { id: 'g2', url: 'public/gallery/avombro.png', caption: 'Avaliação do ombro' },
-  { id: 'g3', url: 'public/gallery/avpelvesacro.jpeg', caption: 'Avaliação da função do sacro e da pelve' },
-  { id: 'g4', url: 'public/gallery/avtorax.png', caption: 'Avaliação da coluna torácica' },
-  { id: 'g5', url: 'public/gallery/mobfigado.jpeg', caption: 'Mobilização do fígado' },
-  { id: 'g6', url: 'public/gallery/mobintestinos.jpeg', caption: 'Mobilização dos intestinos' },
+  { id: 'g1', url: '/gallery/avlombar.jpeg', caption: 'Avaliação da coluna lombar' },
+  { id: 'g2', url: '/gallery/avombro.png', caption: 'Avaliação do ombro' },
+  { id: 'g3', url: '/gallery/avpelvesacro.jpeg', caption: 'Avaliação da função do sacro e da pelve' },
+  { id: 'g4', url: '/gallery/avtorax.png', caption: 'Avaliação da coluna torácica' },
+  { id: 'g5', url: '/gallery/mobfigado.jpeg', caption: 'Mobilização do fígado' },
+  { id: 'g6', url: '/gallery/mobintestinos.jpeg', caption: 'Mobilização dos intestinos' },
 ];
 
 /* ------------------------------------------------------------------ */
