@@ -1,0 +1,6 @@
+{
+  "name": "Link em Bio do Dr. Luis Henrique",
+  "description": "Página de link em bio estilo ldue para médicos e profissionais de saúde com blocos personalizáveis, galeria, agendamento, mapa e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
